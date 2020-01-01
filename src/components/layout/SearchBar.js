@@ -1,6 +1,7 @@
 import React from 'react';
 
 const SearchBar = () => {
+  // https://materializecss.com/navbar.html  Search Bar
   return (
     <nav style={{ marginBottom: '30px' }} className='blue'>
       <div className='nav-wrapper'>
