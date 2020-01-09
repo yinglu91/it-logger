@@ -8,11 +8,11 @@
       "id": 1
     },
     {
-      "message": "Hard drive failed in 002",
+      "id": 2,
+      "message": "Fixed Hard drive failed in 002",
       "attention": false,
       "tech": "John doe",
-      "date": "2020-01-08T13:04:50.701Z",
-      "id": 2
+      "date": "2020-01-09T01:03:28.387Z"
     }
   ],
   "techs": [
